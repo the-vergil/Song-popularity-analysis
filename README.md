@@ -1,6 +1,6 @@
 ## Song-popularity-analysis
 
-## In this project we're going to analyze the song popularity dataset (dataset is taken from kaggle -- https://www.kaggle.com/yasserh/song-popularity-dataset )
+In this project we're going to analyze the song popularity dataset (dataset is taken from kaggle -- https://www.kaggle.com/yasserh/song-popularity-dataset )
 
 ## Outline
 1. Importing libraries
